@@ -14,7 +14,7 @@ This repository contains the backend codebase for a project management dashboard
   - Upload multiple media files (images, PDFs, videos, audio, etc.) per task.
 
 - **File Uploads**:
-  - Support for images, PDFs, JSON, CSV, videos, and audio files.
+  - Support for images, PDFs, JSON, CSV, images, videos, and audio files.
   - Files are stored locally in the `/uploads` directory.
 
 ---
